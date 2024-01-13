@@ -3,9 +3,9 @@ Some skins for LocID client (j2me)
 
 # wJimm
 Main menu
-[!](./wJimm_menu.png) 
+![Главное меню](./wJimm_menu.png) 
 Messaging
-[!](./wJimm_message.png)
+![Отправка сообщений](./wJimm_message.png)
 
 # Jimm Xattab
 *Jimm Xattab* is just fixed by me.
