@@ -13,6 +13,9 @@ Messaging
 # Jimm Xattab
 *Jimm Xattab* is just fixed by me.
 
+# LocID Updated
+Regular LocID theme with some fixes
+
 # KICQ
 My **[KICQ](http://kicq.ru/)** UIN: 3-739-186
 
